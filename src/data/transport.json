@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "type": "passenger",
+        "driver": "Вася пупкин",
+        "phone": "89999999999",
+        "coordinate": {
+            "latitude": 56.890983,
+            "longitude": 60.639976
+        }
+    },
+    {
+        "id": 2,
+        "type": "cargo",
+        "driver": "Вася пупкин",
+        "phone": "89999999999",
+        "coordinate": {
+            "latitude": 56.856685,
+            "longitude": 60.606584
+        }
+    },
+    {
+        "id": 3,
+        "type": "special_transport",
+        "driver": "Вася пупкин",
+        "phone": "89999999999",
+        "coordinate": {
+            "latitude": 56.808481,
+            "longitude": 60.591854
+        }
+    },
+    {
+        "id": 4,
+        "type": "passenger",
+        "driver": "Вася пупкин",
+        "phone": "89999999999",
+        "coordinate": {
+            "latitude": 56.872033,
+            "longitude": 60.557172
+        }
+    },
+    {
+        "id": 5,
+        "type": "cargo",
+        "driver": "Вася пупкин",
+        "phone": "89999999999",
+        "coordinate": {
+            "latitude": 56.898667,
+            "longitude": 60.614458
+        }
+    }
+]
